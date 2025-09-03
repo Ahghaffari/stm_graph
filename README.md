@@ -3,6 +3,9 @@
 </p>
 
 # STM-Graph: A Python Framework for Spatio-Temporal Mapping and Graph Neural Network Predictions
+[![ACM CIKM ’25 — Resource Paper](https://img.shields.io/badge/ACM%20CIKM%20%E2%80%9925-Resource%20Paper-blueviolet)](https://doi.org/10.1145/3746252.3761645)
+[![DOI](https://img.shields.io/badge/DOI-10.1145%2F3746252.3761645-2ea44f)](https://doi.org/10.1145/3746252.3761645)
+> 🏆 **Accepted at ACM CIKM ’25 (Resource Track)** — November 10–14, 2025, Seoul. [Read the paper](https://doi.org/10.1145/3746252.3761645)
 
 ## Overview
 
@@ -280,15 +283,24 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Citation
 
-If you use STM-Graph in your research, please cite the repo and our article:
+If you use STM-Graph in your research, please cite our CIKM 2025 paper:
 
-```
-@software{stm_graph,
-  author = {Amirhossein Ghaffari},
-  title = {STM-Graph: A Python Framework for Spatio-Temporal Mapping and Graph Neural Network Predictions},
-  year = {2025},
-  publisher = {GitHub},
-  url = {https://github.com/Ahghaffari/stm_graph}
+Amirhossein Ghaffari, Huong Nguyen, Lauri Lovén, and Ekaterina Gilman. 2025. **STM-Graph: A Python Framework for Spatio-Temporal Mapping and Graph Neural Network Predictions.** In *Proceedings of the 34th ACM International Conference on Information and Knowledge Management (CIKM ’25)*, November 10–14, 2025, Seoul, Republic of Korea. ACM, New York, NY, USA, 5 pages. https://doi.org/10.1145/3746252.3761645
+
+**BibTeX**
+```bibtex
+@inproceedings{ghaffari2025stmgraph,
+  author       = {Amirhossein Ghaffari and Huong Nguyen and Lauri Lov{\'e}n and Ekaterina Gilman},
+  title        = {STM-Graph: A Python Framework for Spatio-Temporal Mapping and Graph Neural Network Predictions},
+  booktitle    = {Proceedings of the 34th ACM International Conference on Information and Knowledge Management (CIKM '25)},
+  year         = {2025},
+  month        = nov,
+  location     = {Seoul, Republic of Korea},
+  publisher    = {Association for Computing Machinery},
+  address      = {New York, NY, USA},
+  numpages     = {5},
+  doi          = {10.1145/3746252.3761645},
+  url          = {https://doi.org/10.1145/3746252.3761645}
 }
 ```
 
